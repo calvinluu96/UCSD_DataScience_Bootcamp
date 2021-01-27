@@ -17,7 +17,8 @@ You must give a full effort on every group and individual project.
 
 
 ## Important Links And Notes
- [Homework Submission](https://www.bootcampspot.com/)</br>
+ [Homework Submission](https://www.bootcampspot.com/)
+ 
  [Class Materials](https://ucsd.bootcampcontent.com/UCSD-Coding-Bootcamp/ucsd-sd-virt-data-pt-02-2021-u-c)
 
 
@@ -25,7 +26,7 @@ Live Office Hours: 45 minutes before class and 30 minutes after class
 
 
 ## Technical Curriculum by Week
-Please see bootcampspot-v2.com
+Please see [bootcampspot.com](https://www.bootcampspot.com/)
 
 The material covered in this syllabus is subject to change. Our academic team adjusts to the market rapidly.
 
